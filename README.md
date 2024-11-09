@@ -1,0 +1,1 @@
+A smart bin is an intelligent waste management solution that uses sensors and IoT technology to detect fill levels, sort waste, and optimize collection. It helps reduce overflow, improve recycling rates, and support sustainable waste management practices.
